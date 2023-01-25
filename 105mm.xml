@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <path>105.ac</path>
+  <texture-path>../</texture-path>
+  
+  <!--
+Model by camokid11
+
+Mass	1,858 kg (4,096 lb)
+Length	8.8 m (28 ft 10 in)
+Barrel length	37 calibers[1]
+Width	1.78 m (5 ft 10 in)
+Height	2.13 m (7 ft)
+Crew	6 (normal), 4 (reduced)
+
+-->
+
+    <!--  Specularity fix
+    <animation>
+        <type>material</type>
+        <object-name>ID125.001_ID127</object-name>
+        <object-name>ID125.002_ID127</object-name>
+        <object-name>ID125_ID127</object-name>
+        <object-name>ID155_ID157</object-name>
+        <object-name>ID168_ID157</object-name>
+        <object-name>ID177_ID157</object-name>
+        <object-name>ID186.001_ID188</object-name>
+        <object-name>ID186.002_ID188</object-name>
+        <object-name>ID186.003_ID11</object-name>
+        <shininess>128</shininess>
+        <specular>
+            <r>1</r>
+            <g>1</g>
+            <b>1</b>
+        </specular>
+        <ambient>
+            <r>1</r>
+            <g>1</g>
+            <b>1</b>
+        </ambient>
+    </animation> -->
+
+    <!-- exterior effects
+    <effect>
+        <inherits-from>bumpspec</inherits-from>
+        <object-name>ID125.001_ID127</object-name>
+        <object-name>ID125.002_ID127</object-name>
+        <object-name>ID125_ID127</object-name>
+        <object-name>ID155_ID157</object-name>
+        <object-name>ID168_ID157</object-name>
+        <object-name>ID177_ID157</object-name>
+        <object-name>ID186.001_ID188</object-name>
+        <object-name>ID186.002_ID188</object-name>
+        <object-name>ID186.003_ID11</object-name>
+    </effect> -->
+
+
+</PropertyList>
