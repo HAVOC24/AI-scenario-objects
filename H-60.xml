@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>H-60.ac</path>
+
+ <animation>
+  <type>range</type>
+  <object-name>H-60</object-name>
+  <min-m>0</min-m>
+  <max-m>8000</max-m>
+ </animation>
+
+</PropertyList>
